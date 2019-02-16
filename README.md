@@ -16,5 +16,11 @@ WEEK 1
   
   WEEK 4
   - Made a clear wireframe for the website
+  - Made the layout for the Website
+  
+  WEEK 5
+  - Made a logo for the website.
+  - Made the Git Repository of the website for by the name of ReadIt
+  - Hosted the website using github pages.
   
   
